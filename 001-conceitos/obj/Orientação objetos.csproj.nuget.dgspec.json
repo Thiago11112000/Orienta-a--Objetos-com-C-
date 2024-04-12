@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos-C#\\Orientação objetos\\Orientação objetos.csproj": {}
+    "D:\\projetos-C#\\Orientação objetos\\001-conceitos\\Orientação objetos.csproj": {}
   },
   "projects": {
-    "D:\\projetos-C#\\Orientação objetos\\Orientação objetos.csproj": {
+    "D:\\projetos-C#\\Orientação objetos\\001-conceitos\\Orientação objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos-C#\\Orientação objetos\\Orientação objetos.csproj",
+        "projectUniqueName": "D:\\projetos-C#\\Orientação objetos\\001-conceitos\\Orientação objetos.csproj",
         "projectName": "Orientação objetos",
-        "projectPath": "D:\\projetos-C#\\Orientação objetos\\Orientação objetos.csproj",
+        "projectPath": "D:\\projetos-C#\\Orientação objetos\\001-conceitos\\Orientação objetos.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos-C#\\Orientação objetos\\obj\\",
+        "outputPath": "D:\\projetos-C#\\Orientação objetos\\001-conceitos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
