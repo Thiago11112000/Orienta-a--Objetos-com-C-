@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.exe
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.deps.json
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.dll
+D:\projetos-C#\Orientação objetos\002-métodos\bin\Debug\netcoreapp3.1\002-métodos.pdb
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.dll
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.pdb
+D:\projetos-C#\Orientação objetos\002-métodos\obj\Debug\netcoreapp3.1\002-métodos.genruntimeconfig.cache
