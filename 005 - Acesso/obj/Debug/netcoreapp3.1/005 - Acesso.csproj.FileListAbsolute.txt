@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.exe
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.deps.json
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.dll
+D:\projetos-C#\Orientação objetos\005 - Acesso\bin\Debug\netcoreapp3.1\005 - Acesso.pdb
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.dll
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.pdb
+D:\projetos-C#\Orientação objetos\005 - Acesso\obj\Debug\netcoreapp3.1\005 - Acesso.genruntimeconfig.cache
