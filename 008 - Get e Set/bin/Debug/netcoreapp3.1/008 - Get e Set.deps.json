@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "008 - Get e Set/1.0.0": {
+        "runtime": {
+          "008 - Get e Set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008 - Get e Set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

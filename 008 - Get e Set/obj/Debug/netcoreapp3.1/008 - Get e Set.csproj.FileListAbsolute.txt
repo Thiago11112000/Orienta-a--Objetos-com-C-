@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.exe
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.deps.json
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.dll
+D:\projetos-C#\Orientação objetos\008 - Get e Set\bin\Debug\netcoreapp3.1\008 - Get e Set.pdb
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.dll
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.pdb
+D:\projetos-C#\Orientação objetos\008 - Get e Set\obj\Debug\netcoreapp3.1\008 - Get e Set.genruntimeconfig.cache
