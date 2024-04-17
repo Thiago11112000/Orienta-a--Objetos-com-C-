@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.exe
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.deps.json
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.dll
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\bin\Debug\netcoreapp3.1\006 - Encapsulamento.pdb
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.dll
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.pdb
+D:\projetos-C#\Orientação objetos\006 - Encapsulamento\obj\Debug\netcoreapp3.1\006 - Encapsulamento.genruntimeconfig.cache
