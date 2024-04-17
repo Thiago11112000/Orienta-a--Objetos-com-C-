@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.exe
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.deps.json
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.dll
+D:\projetos-C#\Orientação objetos\10 - Hereança\bin\Debug\netcoreapp3.1\10 - Hereança.pdb
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.dll
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.pdb
+D:\projetos-C#\Orientação objetos\10 - Hereança\obj\Debug\netcoreapp3.1\10 - Hereança.genruntimeconfig.cache
