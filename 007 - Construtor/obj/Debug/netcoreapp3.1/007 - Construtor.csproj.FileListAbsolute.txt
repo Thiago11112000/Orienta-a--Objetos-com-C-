@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.exe
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.deps.json
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.dll
+D:\projetos-C#\Orientação objetos\007 - Construtor\bin\Debug\netcoreapp3.1\007 - Construtor.pdb
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.dll
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.pdb
+D:\projetos-C#\Orientação objetos\007 - Construtor\obj\Debug\netcoreapp3.1\007 - Construtor.genruntimeconfig.cache
