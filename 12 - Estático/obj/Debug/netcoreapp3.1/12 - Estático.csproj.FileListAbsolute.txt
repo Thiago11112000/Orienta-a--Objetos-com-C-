@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.exe
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.deps.json
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.dll
+D:\projetos-C#\Orientação objetos\12 - Estático\bin\Debug\netcoreapp3.1\12 - Estático.pdb
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.dll
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.pdb
+D:\projetos-C#\Orientação objetos\12 - Estático\obj\Debug\netcoreapp3.1\12 - Estático.genruntimeconfig.cache
