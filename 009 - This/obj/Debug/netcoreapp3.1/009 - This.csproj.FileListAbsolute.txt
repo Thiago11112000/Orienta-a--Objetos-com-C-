@@ -1,0 +1,13 @@
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.exe
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.deps.json
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.runtimeconfig.json
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.runtimeconfig.dev.json
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.dll
+D:\projetos-C#\Orientação objetos\009 - This\bin\Debug\netcoreapp3.1\009 - This.pdb
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.csprojAssemblyReference.cache
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.AssemblyInfoInputs.cache
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.AssemblyInfo.cs
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.csproj.CoreCompileInputs.cache
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.dll
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.pdb
+D:\projetos-C#\Orientação objetos\009 - This\obj\Debug\netcoreapp3.1\009 - This.genruntimeconfig.cache
